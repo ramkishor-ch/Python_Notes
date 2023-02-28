@@ -5,8 +5,9 @@ Simply put, iterators are data types that can be used in a for loop.
 The most common iterator in Python is the list.
 
 itertools: product, permutation, combinations, accumulate, groupby and infinite iterators
-"""
 
+more information: https://docs.python.org/3/library/itertools.html
+"""
 
 """
 product() :
