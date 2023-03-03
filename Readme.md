@@ -1,3 +1,3 @@
 #This is Python_Notes Repository
 
-#It contains the code of python functions
+#It contains Python_Basic & Python_Intermediate Level
